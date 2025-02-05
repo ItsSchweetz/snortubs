@@ -1,4 +1,5 @@
-# Snort UBS
+# Snort UBS 
+Ubuntu-22.04.5 
 
 Chat id & Bot token pada code alertbot.sh diganti sesuai chat_id &bot_token yang dipakai atau didapat ketika membuat bot dan groupchat telegram
 
