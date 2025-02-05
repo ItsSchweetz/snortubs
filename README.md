@@ -1,19 +1,19 @@
 # Snort UBS 
 Ubuntu-22.04.5 
 
-Chat id & Bot token pada code alertbot.sh diganti sesuai chat_id &bot_token yang dipakai atau didapat ketika membuat bot dan groupchat telegram
+-> Chat id & Bot token pada code alertbot.sh diganti sesuai chat_id &bot_token yang dipakai atau didapat ketika membuat bot dan groupchat telegram
 
 **Konfigurasi IP/Jaringan yang di Monitor Trafficnya**
 
-IP address yang dimonitor bisa diganti pada snort.conf, di variabel IP_VAR HOME_NET
+-> IP address yang dimonitor bisa diganti pada snort.conf, di variabel IP_VAR HOME_NET
 
-snort.conf bisa diakses pada /etc/snort/snort.conf (pakai sudo ketika ingin edit konfigurasi)
+-> snort.conf bisa diakses pada /etc/snort/snort.conf (pakai sudo ketika ingin edit konfigurasi)
 
 **Konfigurasi Rules Snort**
 
-Konfigurasi rules pada snort dilakukan pada file local.rules
+-> Konfigurasi rules pada snort dilakukan pada file local.rules
 
-local.rules bisa diakses pada /etc/snort/rules/local.rules (pakai sudo ketika ingin edit konfigurasi)
+-> local.rules bisa diakses pada /etc/snort/rules/local.rules (pakai sudo ketika ingin edit konfigurasi)
 
 **Script Instalasi InfluxDB**
 
